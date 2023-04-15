@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-10-19T09:53:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "pid driver"
+        },
+        "Owner": "Islam Abdo <eng-islam.abdo1722@alexu.edu.eg>",
+        "Size": {
+            "X": 80,
+            "Y": 100
+        }
+    }
+}
